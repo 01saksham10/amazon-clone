@@ -153,7 +153,7 @@ span {
 }
 .box{
   border: 2px solid transparent;
-  height: 400px;
+  height: 500px;
   width: 23%;
   background-color: white;
   
@@ -173,18 +173,35 @@ span {
 }
 .box-content p{
   margin-top: 10px;
+  color: #0b3970;
+  font-size: 0.95rem;
 }
 .box-img1{
   background-image: url("box1_image.jpg");
-  height: 300px;
+  height: 400px;
   background-size: cover;
   /* padding: 10px; */
 
   
 
 }
+.box-content h2{
+  margin-bottom: 0.8rem;
+  font-weight: 700;
+  
+}
 .box-img2{
   background-image: url("box5_image.jpg");
-  height: 300px;
+  height: 400px;
+  background-size: cover;
+}
+.box-img3{
+  background-image: url("box3_image.jpg");
+  height: 400px;
+  background-size: cover;
+}
+.box-img4{
+  background-image: url("box4_image.jpg");
+  height: 400px;
   background-size: cover;
 }
